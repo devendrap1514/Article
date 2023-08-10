@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+* follow link "https://guides.rubyonrails.org/getting_started.html" to builiding this web app
+
 * Ruby version
 
 * System dependencies
